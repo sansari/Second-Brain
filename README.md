@@ -94,7 +94,7 @@ A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Di
 | Rosie Campbell        | https://rosiecampbell.me/notes                                                 | https://twitter.com/RosieCampbell   |
 | Ryan Dawidjan         | https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4           |                                     |
 | Ryan Warner           | https://ryan.warner.codes/notes                                                | https://twitter.com/RyanWarnerCodes |
-| Salman Ansari         | https://notes.salman.io/                                                       | https://twitter.com/daretorant      |
+| Salman Ansari         | https://salman.io/notes                                                        | https://twitter.com/daretorant      |
 | Santhosh Thottingal   | https://docs.thottingal.in/                                                    | https://twitter.com/santhoshtr/     |
 | Sam Marshall          | https://notes.sjm.codes/                                                       |                                     |
 | Sanyam Kapoor         | https://www.sanyamkapoor.com/kb                                                | https://twitter.com/activatedgeek   |
